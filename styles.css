@@ -2,7 +2,7 @@
 body{
     background-color: green;
 }
-.eg1{
+.product__photo{
     background-color: white;
     height: 470px;
     width: 550px;
@@ -11,7 +11,7 @@ body{
     top: 100px;
     border-radius: 5px;
 }
-.product__photo{
+.photo-container{
     background-color: white;
     height: 410px;
     width: 225px;

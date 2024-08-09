@@ -1,1 +1,68 @@
 /* your code here */
+body{
+    background-color: green;
+}
+.eg1{
+    background-color: white;
+    height: 470px;
+    width: 550px;
+    position: relative;
+    left: 300px;
+    top: 100px;
+    border-radius: 5px;
+}
+.product__photo{
+    background-color: white;
+    height: 410px;
+    width: 225px;
+    position: absolute;
+    top: 26px;
+    left: -20px;
+    border-radius: 5px;
+}
+.photo-album{
+    list-style-type: none;
+    display: flex;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 195, 195);
+    border-radius: 2px;
+    position: relative;
+    bottom: 25px;
+}
+.img{
+    height: 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(204, 195, 195);
+    border-radius: 2px;
+    position: relative;
+    right: -30px;
+    top: 10px;
+}
+.eg2{
+    padding-left: 220px;
+    padding-top: 40px;
+}
+#h2{
+}
+#pp{
+    position: relative;
+    top: -20px;
+}
+.price {
+    font-size: 24px; /* makes the text larger */
+    font-weight: bold; /* makes the text bold */
+    color: #ff0000; /* makes the text red */
+}
+#variant{
+    padding-left: 25px;
+}
+.buttonn{
+    background-color: #ff0000;
+    color: white;
+    height: 50px;
+    width: 170px;
+    border:none;
+    border-radius: 10px;
+}

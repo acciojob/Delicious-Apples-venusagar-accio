@@ -45,8 +45,8 @@ body{
     font-weight: bold; 
     color: #ff0000; 
 }
-.variant{
-    padding-left: 25px;
+.variant>ul>li>img{
+    list-style-type: none;
 }
 .buttonn{
     background-color: #ff0000;
